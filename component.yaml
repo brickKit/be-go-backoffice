@@ -5,7 +5,7 @@ metadata:
   name: Go back-office shell
   version: 1.0.0
   description: Runs the CRM, HRM, project and back-office ERP Go components in one process to save memory and CPU.
-  repository: https://github.com/brickKit/be-assembly-standard
+  repository: https://github.com/brickKit/be-go-backoffice
   license: Apache-2.0
   vendor: brickKit
 shell:

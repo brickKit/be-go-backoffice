@@ -1,4 +1,4 @@
-module github.com/brickKit/be-assembly-standard/shell/be/go-backoffice
+module github.com/brickKit/be-go-backoffice
 
 go 1.25.11
 
